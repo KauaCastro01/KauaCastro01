@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Kauã Castro 👨‍💻
 
 - 👀 Tenho interesse em **desenvolvimento backend, arquitetura de software e boas práticas de programação**.
-- 🌱 Atualmente estou aprendendo **Python, Go, C++, Flutter, bancos de dados (SQL e NoSQL), Azure e cibersegurança**.
+- 🌱 Atualmente estou aprendendo **Python, Go, C++, Flutter e bancos de dados (SQL e NoSQL)*.
 - 💼 Minha linguagem principal é o **C#**, com foco em backend, APIs e aplicações de console/desktop.
 - 💞️ Estou aberto a colaborar em **projetos que envolvam backend, sistemas simuladores, ou qualquer ideia desafiadora que envolva lógica e estrutura de código limpa**.
 - 📫 Você pode me encontrar no e-mail: **kauacastro@outlook.com.br** ou pelo LinkedIn (em breve).
