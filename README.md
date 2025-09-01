@@ -19,6 +19,6 @@ Crescer como desenvolvedor backend, dominar diferentes linguagens e tecnologias,
 
 ## 📫 Contato
 - **GitHub**: [github.com/RWBSoftware](https://github.com/RWBSoftware)  
-- **LinkedIn**: (www.linkedin.com/in/kauãcastro)
+- **LinkedIn**: www.linkedin.com/in/kauãcastro
 
 ---
