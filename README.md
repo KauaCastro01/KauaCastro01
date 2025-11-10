@@ -3,31 +3,29 @@
 
 ---
 
-### Sobre mim
+Sou Desenvolvedor Backend com foco em soluções utilizando **C# e o ecossistema .NET**, orientado à clareza, consistência e performance.  
+Atuo no desenvolvimento e evolução de sistemas internos, integrações, APIs e aplicações desktop, sempre buscando entregar valor real e código sustentável.
 
-Sou Desenvolvedor Backend com foco em soluções utilizando **C# e .NET**, sempre orientado à clareza, qualidade e consistência do código.  
-Atuo principalmente no desenvolvimento e evolução de sistemas internos, integrações, APIs e aplicações desktop, buscando entregar valor real em cada entrega.
-
-Tenho como princípio:
-- **Código limpo**
-- **Boas práticas**
-- **Documentação clara**
-- **Software pensado para o mundo real**
+**Princípios que guiam meu trabalho:**
+- Código limpo e legível
+- Boas práticas e padronização
+- Documentação objetiva e útil
 
 ---
 
 ### Tecnologias & Ferramentas
 
 **Backend**
-- C# • .NET • ASP.NET • WinForms / WPF • APIs REST  
-- Entity Framework • LINQ • Padrões de projetos (básicos e intermediários)
+- C# • .NET • ASP.NET • APIs REST
+- WinForms • WPF • Entity Framework • LINQ
+- Padrões de Projeto (nível básico/intermediário)
 
 **Banco de Dados**
-- SQL Server • SQLite  
+- SQL Server • SQLite
 - Modelagem Relacional • Stored Procedures • Views • Índices
 
 **Ferramentas**
-- Git & GitHub • Azure DevOps • Swagger • Postman
+- Git & GitHub
 
 ---
 
@@ -35,36 +33,27 @@ Tenho como princípio:
 
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
-| **Aptidão Militar Digital** | Sistema para registro e acompanhamento de desempenho físico militar. | C#, WinForms, SQL Server |
-| **LocalizaCEP** | Consulta de CEP via API, com histórico e interface simples. | C#, .NET, API, JSON |
-| **HelpDesk Pro** | Sistema de chamados interno com autenticação e painéis administrativos. | C#, WinForms, SQL Server |
-| **GuardianPass** | Gerenciador de senhas com criptografia e banco local. | C#, Criptografia, SQLite |
+| **Aptidão Militar Digital** | Registro, avaliação e evolução de desempenho físico militar. | C#, WinForms, SQL Server |
+| **LocalizaCEP** | Consulta de CEP via API, com histórico persistido. | C#, .NET, HTTPClient, JSON |
+| **MilAcess** | Controle de acesso, autenticação e permissões. | C#, WinForms, SQL Server |
+| **CryptoNode** | Aplicação acadêmica de criptografia (Cifra de César, Substituição e Transposição). | C, Console App |
+| **Venom Startup** | Sistema interno modular com visão de expansão corporativa. | C#, Padrões de Arquitetura, SQL Server |
 
-> Repositórios no meu GitHub: estão organizados e documentados para consulta técnica.
+> Repositórios disponíveis no GitHub para consulta técnica e análise de código.
 
 ---
 
-### Estou aprimorando
+### Atualmente Aperfeiçoando
 
 - ASP.NET Core + Minimal APIs
-- Entity Framework com Migrations e Code First
-- Arquitetura limpa e separação de camadas
-- Integrações e boas práticas de versionamento
+- Entity Framework (Migrations / Code First)
+- Arquitetura Limpa & Separação de Camadas
+- Versionamento organizado (Git Flow)
+- Python para automações e serviços auxiliares
 
 ---
 
 ### Objetivo Profissional
 
-Consolidar minha atuação como **Desenvolvedor Backend C#** e evoluir para soluções de maior escala, arquitetura bem definida e impacto real.  
-Minha visão é clara: **código que resolve problemas, não que cria novos.**
-
----
-
-### Contato
-
-**LinkedIn:** *(adicionar quando quiser)*  
-**Email:** *(adicione quando quiser)*
-
----
-
-<p align="center"><sub>RWB Software • Software robusto, eficiente e feito com propósito.</sub></p>
+Consolidar minha atuação como **Desenvolvedor Backend C#**, expandindo minha experiência em arquitetura, escalabilidade e soluções orientadas ao domínio.  
+Minha visão é clara: **software deve resolver problemas, não criar novos.**
