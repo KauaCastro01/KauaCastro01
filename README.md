@@ -37,7 +37,6 @@ Atuo no desenvolvimento e evolução de sistemas internos, integrações, APIs e
 | **LocalizaCEP** | Consulta de CEP via API, com histórico persistido. | C#, .NET, HTTPClient, JSON |
 | **MilAcess** | Controle de acesso, autenticação e permissões. | C#, WinForms, SQL Server |
 | **CryptoNode** | Aplicação acadêmica de criptografia (Cifra de César, Substituição e Transposição). | C, Console App |
-| **Venom Startup** | Sistema interno modular com visão de expansão corporativa. | C#, Padrões de Arquitetura, SQL Server |
 
 > Repositórios disponíveis no GitHub para consulta técnica e análise de código.
 
